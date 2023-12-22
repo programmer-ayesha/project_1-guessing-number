@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "typescript": "^5.3.3"
+  },
+  "name": "project1-number-gussing-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type":"module",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
